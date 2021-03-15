@@ -1,2 +1,3 @@
-#https://scratch.mit.edu/projects/49893589
+Aulas de programaçao visualG e scratch
+https://scratch.mit.edu/projects/498935896
 
