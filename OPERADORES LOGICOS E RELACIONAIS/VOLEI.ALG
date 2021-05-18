@@ -1,4 +1,6 @@
 Algoritmo "VOLEI"
+// Disciplina   : [Linguagem e Lógica de Programação] 
+// Professor   : Antonio Carlos Nicolodi 
 
 // Descrição   :IFORMA SE PODERA PARTICIPAR DO CAMPEONATO DE VOLEI
 // Autor(a)    :MARIA EDUARDA SOARES BRAZ
@@ -16,7 +18,7 @@ leia(idade)
 
 //PROCESSAMENTO
 competir <-((altura>=1.75) e (idade>=18))
-ncompetirar <-((altura<1.75) e (idade<18))
+ncompetirar <-((altura<1.75) ou(idade<18))
 
 //SAIDA
 escreval("Voce ira competir no campeonato",competir)
