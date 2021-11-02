@@ -1,5 +1,7 @@
 Algoritmo "Medias_notas"
-// Giulia Santana Silva
+// Disciplina   : [Linguagem e Lógica de Programação] 
+// Professor   : Antonio Carlos Nicolodi 
+// maria eduardasoares braz
 // 04/10/2021
 Var
 nome: vetor [1..5] de caractere

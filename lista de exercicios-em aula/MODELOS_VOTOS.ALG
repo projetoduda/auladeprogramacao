@@ -1,8 +1,8 @@
 Algoritmo "modelos_votos"
-// 
-//  
+// Disciplina   : [Linguagem e Lógica de Programação] 
+// Professor   : Antonio Carlos Nicolodi 
 // Descrição   : Conta quantos votos as modelos contém
-// Autor(a)    : Giulia Santana Silva
+// Autor(a)    : maria eduarda soares braz
 // Data atual  : 04/10/2021
 Var
 // Seção de Declarações das variáveis 

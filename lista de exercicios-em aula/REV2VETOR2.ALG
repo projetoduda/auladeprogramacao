@@ -1,6 +1,8 @@
 Algoritmo "rev2vetor2"
+// Disciplina   : [Linguagem e Lógica de Programação] 
+// Professor   : Antonio Carlos Nicolodi 
 // Exercico 1
-// Giulia Santana Silva
+// maria edurda soares braz
 // 04/10/2021
 Var
 vet : vetor [1 .. 5] de inteiro

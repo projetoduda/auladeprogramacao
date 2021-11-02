@@ -1,6 +1,6 @@
 Algoritmo "Vetor_10_Posicoes"
-// exercicio 5
-// Giulia Santana Silva
+// Disciplina   : [Linguagem e Lógica de Programação] 
+// maria eduarda soares braz
 //04/10/2021
 Var
 vet: vetor[1 .. 10] de inteiro
